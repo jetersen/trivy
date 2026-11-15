@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.76.2](https://github.com/aquasecurity/trivy/compare/v0.76.1...v0.76.2) (2026-11-05)
+
+
+### Bug Fixes
+
+* **deps:** bump alpine to 3.24.3 in container images [backport: release/v0.76] ([#11551](https://github.com/aquasecurity/trivy/issues/11551)) ([ae26b88](https://github.com/aquasecurity/trivy/commit/ae26b88c3b3c380808e767dfb63f9b8dcd5f64fd))
+* **deps:** bump github.com/go-jose/go-jose/v4 from 4.1.5 to 4.1.6 [backport: release/v0.76] ([#11553](https://github.com/aquasecurity/trivy/issues/11553)) ([a8537d3](https://github.com/aquasecurity/trivy/commit/a8537d389cbd0fa215eddfddc27150fc7bc82a6c))
+* **deps:** bump golang.org/x/net from 0.61.0 to 0.62.0 [backport: release/v0.76] ([#11554](https://github.com/aquasecurity/trivy/issues/11554)) ([1cabe83](https://github.com/aquasecurity/trivy/commit/1cabe83c11ffed6e984ab46be8886e1e01516ead))
+
+## [0.76.1](https://github.com/aquasecurity/trivy/compare/v0.76.0...v0.76.1) (2026-10-21)
+
+
+### Bug Fixes
+
+* **deps:** bump the aws group across 1 directory with 6 updates [backport: release/v0.76] ([#11446](https://github.com/aquasecurity/trivy/issues/11446)) ([6647bd6](https://github.com/aquasecurity/trivy/commit/6647bd6ec5924087956285b773b8cae10508736e))
+* **deps:** bump the common group with 3 updates [backport: release/v0.76] ([#11442](https://github.com/aquasecurity/trivy/issues/11442)) ([992c360](https://github.com/aquasecurity/trivy/commit/992c360c33d9f9627bb24c1fe3f20815110c88e5))
+* **deps:** bump the docker group with 3 updates [backport: release/v0.76] ([#11443](https://github.com/aquasecurity/trivy/issues/11443)) ([e0964c9](https://github.com/aquasecurity/trivy/commit/e0964c97819b1d6a45b7e0426803745f173fc550))
+
 ## [0.76.0](https://github.com/aquasecurity/trivy/compare/v0.75.0...v0.76.0) (2026-10-14)
 
 
